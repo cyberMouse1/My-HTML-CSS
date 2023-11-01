@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-image: url(../img/bg1.jpg);
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+
+.mini-window {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: #fff;
+    padding: 50px;
+    top: 300px;
+    left: 200px;
+}
+
+.mini-window p {
+    color: #dfa26f;
+    font-size: 1.5rem;
+    font-weight: 900;
+    line-height: 0.9;
+    text-align: center;
+    padding-top: 30px;
+}
